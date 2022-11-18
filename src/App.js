@@ -6,13 +6,10 @@ import Portfolio from "./components/portfolio/portfolio";
 import Advantage from "./components/Advantage/Advantage";
 import './scss/style.scss'
 
-
-
 function App() {
-  
   return (
     <>
-     <Header/>
+    <Header/>
      <main>
       <About/>
       <Portfolio/>
